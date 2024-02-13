@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Haribist/Haribist/blob/main/Thanks%20for%20visiting.gif?raw=true)
+![MasterHead](https://github.com/ifeeldeveloper/ifeeldeveloper/blob/main/Thanks%20for%20visiting.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Hari Bista</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX Enthusiasts.</h3>
 
