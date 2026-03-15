@@ -1,11 +1,11 @@
 ![MasterHead](https://github.com/ifeeldeveloper/ifeeldeveloper/blob/main/Thanks%20for%20visiting.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Hari Bista</h1>
-<h3 align="center">A passionate Frontend Developer and UI/UX Enthusiasts.</h3>
+<h3 align="center">A passionate about Network Support and System security.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Haribist&label=Profile%20views&color=0e75b6&style=flat" alt="Haribist" /> </p>
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Enterprise Networkig
 
 - 📫 How to reach me haribist1001@gmail.com
 
